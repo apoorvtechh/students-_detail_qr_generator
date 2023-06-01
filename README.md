@@ -1,7 +1,7 @@
 # students-_detail_qr_generator
 QR Code Generator
 
-This is a Python program that generates QR codes using the qrcode library. It allows you to create QR codes with details such as ID, name, and year. The program also includes functionality to resize the generated QR codes using the resize method.
+This is a Python program that generates QR codes using the qrcode library. It allows you to create QR codes with details such as ID, name, and year. 
 
 Features:
 
